@@ -5,11 +5,10 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.bruce.pickerview.LoopView
-import com.bruce.pickerview.popwindow.DatePickerPopWin
-import com.bruce.pickerview.popwindow.DatePickerPopWin.OnDatePickedListener
-import com.bruce.pickerview.popwindow.TimePickerPopWin
-import com.bruce.pickerview.popwindow.TimePickerPopWin.OnTimePickListener
+import com.brotherapps.androiddatepicker.popwindow.DatePickerPopWin
+import com.brotherapps.androiddatepicker.popwindow.DatePickerPopWin.OnDatePickedListener
+import com.brotherapps.androiddatepicker.popwindow.TimePickerPopWin
+import com.brotherapps.androiddatepicker.popwindow.TimePickerPopWin.OnTimePickListener
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

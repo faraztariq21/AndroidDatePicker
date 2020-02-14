@@ -1,4 +1,4 @@
-package com.bruce.pickerview.popwindow;
+package com.brotherapps.androiddatepicker.popwindow;
 
 import android.app.Activity;
 import android.content.Context;
@@ -17,11 +17,10 @@ import android.view.animation.Animation.AnimationListener;
 import android.view.animation.TranslateAnimation;
 import android.widget.Button;
 import android.widget.PopupWindow;
-import android.widget.TextView;
 
-import com.bruce.pickerview.LoopScrollListener;
-import com.bruce.pickerview.LoopView;
-import com.bruce.pickerview.R;
+import com.brotherapps.androiddatepicker.LoopScrollListener;
+import com.brotherapps.androiddatepicker.LoopView;
+import com.brotherapps.androiddatepicker.R;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

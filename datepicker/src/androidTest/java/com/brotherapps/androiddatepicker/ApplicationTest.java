@@ -1,4 +1,4 @@
-package com.bruce.pickerview;
+package com.brotherapps.androiddatepicker;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

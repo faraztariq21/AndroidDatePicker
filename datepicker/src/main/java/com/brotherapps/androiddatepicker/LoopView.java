@@ -1,4 +1,4 @@
-package com.bruce.pickerview;
+package com.brotherapps.androiddatepicker;
 
 import android.annotation.TargetApi;
 import android.content.Context;
