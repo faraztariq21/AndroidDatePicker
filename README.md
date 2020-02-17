@@ -50,6 +50,7 @@ Then enjoy this library.
                     .dateChose("2013-11-11") // date chose when init popwindow
                     .dateFormat("dd/MM/yyyy")
                     .build()
+                    .pickerPopWin.showPopWin(this)
         })
 
         timeButton.setOnClickListener(View.OnClickListener {
@@ -94,6 +95,7 @@ Then enjoy this library.
                     .dateChose("2013-11-11") // date chose when init popwindow
                     .dateFormat("dd/MM/yyyy")
                     .build()
+                    .pickerPopWin.showPopWin(this)
         })
 
 # Timepicker:
